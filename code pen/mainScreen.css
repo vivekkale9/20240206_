@@ -1,0 +1,14 @@
+
+.mainScreen{
+    height: 643px;
+    width: 1119px;
+    position: absolute;
+    right: 417px;
+    top: 65px;
+    bottom: 30px;
+    
+    background-image: url(mainScreenImage.PNG);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

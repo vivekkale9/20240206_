@@ -1,0 +1,117 @@
+.rightSidePanel{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 27.2vw;
+    height: calc(100vh - 95px);
+    background-color: black;
+    position: absolute;
+    top: 65px;
+    bottom: 20px;
+    right: 0;
+    border-top: 1px #34363e;
+}
+.html{
+    display: flex;
+    flex : 1;
+    background-color: #1D1E22;
+    margin-left: 16px;
+    margin-top: 1px;
+    border-top: 3.5px solid #2f2f2f;
+    
+}
+.css{
+    display: flex;
+    flex : 1;
+    background-color: #1D1E22;
+    margin-left: 16px;
+    margin-top: 1px;
+    border-top: 3.5px solid #2f2f2f;
+}
+.js{
+    display: flex;
+    flex : 1;
+    background-color: #1D1E22;
+    margin-left: 16px;
+    margin-top: 1px;
+    border-top: 3.5px solid #2f2f2f;
+}
+/* .rightSidePanel div{
+    display: flex;
+    background-color: #1D1E22;
+    flex : 1;
+    margin-left: 16px;
+    margin-top: 1px;
+    border-top: 3.5px solid #2f2f2f;
+    position: relative;
+} */
+
+
+.box1{
+    position: absolute;
+    top: -3px;
+    right: 0;
+    width: 304px; 
+    height: 38px;
+    background-color: black;
+    border-top: 0;
+}
+.box2{
+    position: absolute;
+    top: -3px;
+    right: 0;
+    width: 322px; 
+    height: 38px;
+    background-color: black;
+    border-top: 0;
+}
+.box3{
+    position: absolute;
+    top: -3px;
+    right: 0;
+    width: 333px; 
+    height: 38px;
+    background-color: black;
+    border-top: 0;
+}
+.html .htmlText{
+    position: absolute;
+    top: 7px;
+    left: 0;
+    height: 38px;
+    width: 40px;
+    border-top: 0;
+    font-size: 15px;
+    font-weight: 400;
+    color: silver;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+
+.css .cssText{
+    position: absolute;
+    top: 7px;
+    left: 0;
+    height: 38px;
+    width: 40px;
+    border-top: 0;
+    font-size: 15px;
+    font-weight: 400;
+    color: silver;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+
+.js .jsText{
+    position: absolute;
+    top: 7px;
+    left: 0;
+    height: 38px;
+    width: 40px;
+    border-top: 0;
+    font-size: 15px;
+    font-weight: 400;
+    color: silver;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+
+
+

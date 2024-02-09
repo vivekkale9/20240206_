@@ -1,0 +1,117 @@
+.header{
+    width : 100vw;
+    height : 65px;
+    background-color: black;
+    position: fixed;
+    top: 0;
+}
+.header .buttons{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+    margin-right: 10px;
+}
+.signup{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    width: 86px;
+    background-color: 	#47cf73;
+    border-radius: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+.login{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    width: 77px;
+    background-color: hsl(227, 12%, 30%);
+    border-radius: 5px;
+    margin-left: 10px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+.symbol{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    width:53px;
+    background-color: hsl(227, 12%, 30%);
+    border-radius: 5px;
+    margin-left: 10px;
+    color: white;
+}
+.settings{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    width: 113px;
+    background-color: hsl(227, 12%, 30%);
+    border-radius: 5px;
+    margin-left: 10px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+.love{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    width:51px;
+    background-color: hsl(227, 12%, 30%);
+    border-radius: 5px;
+    margin-left: 5px;
+    color: white;
+}
+.logo{
+    position: absolute;
+    height: 46%;
+    top: 26%;
+    left: 0;
+    
+}
+.text1{
+    position: absolute;
+    height: 50%;
+    left: 45px;
+    top: 0;
+    margin-top: 8px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+.text2{
+    position: absolute;
+    height: 50%;
+    left: 45px;
+    bottom: 0;
+    color: #9b9dad;
+    font-size: 13.5px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+.follow{
+    position: absolute;
+    height: 24%;
+    width: 53.9375px;
+    left: 147px;
+    color: black;
+    bottom: 14px;
+    background-color: #47cf73;
+    font-size: 10.5px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+    border-radius: 2px;
+}
+.logo img{
+    height: 100%;
+    margin: 0 8px;
+}

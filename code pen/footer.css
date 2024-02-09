@@ -1,0 +1,128 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    width : 100vw;
+    height : 30px;
+    background-color: hsl(222.86, 13.73%, 20%);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    flex-direction: row-reverse;
+}
+.footer div{
+    color: white;
+}
+.share{
+            
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 22px;
+    width: 45.85px;
+    background-color: hsl(227.37, 12.26%, 30.39%);
+    border-radius: 2px;
+    margin-left: 5px;
+    font-size: 12px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+.export{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 22px;
+    width: 51.2375px;
+    background-color: hsl(227.37, 12.26%, 30.39%);
+    border-radius: 2px;
+    margin-left: 5px;
+    font-size: 12px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+.embed{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 22px;
+    width: 52.1375px;
+    background-color: hsl(227.37, 12.26%, 30.39%);
+    border-radius: 2px;
+    margin-left: 5px;
+    font-size: 12px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+.fork{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 22px;
+    width: 50.1875px;
+    background-color: hsl(227.37, 12.26%, 30.39%);
+    border-radius: 2px;
+    margin-left: 5px;
+    font-size: 12px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+
+.footer .button-right{
+    
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 100%;
+    margin-right: 10px;
+}
+.footer .button-left{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100%;
+    margin-left: 10px;
+}
+.shortcuts{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 22px;
+    width: 66.5875px;
+    background-color: hsl(227.37, 12.26%, 30.39%);
+    border-radius: 2px;
+    margin-right: 5px;
+    font-size: 12px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+.comments{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 22px;
+    width: 72.85px;
+    background-color: hsl(227.37, 12.26%, 30.39%);
+    border-radius: 2px;
+    margin-right: 5px;
+    font-size: 12px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+.assets{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 22px;
+    width: 50.15px;
+    background-color: hsl(227.37, 12.26%, 30.39%);
+    border-radius: 2px;
+    margin-right: 5px;
+    font-size: 12px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+.console{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 22px;
+    width: 58.4125px;
+    background-color: hsl(227.37, 12.26%, 30.39%);
+    border-radius: 2px;
+    margin-right: 5px;
+    font-size: 12px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
