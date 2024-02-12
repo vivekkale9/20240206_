@@ -36,16 +36,6 @@
     margin-top: 1px;
     border-top: 3.5px solid #2f2f2f;
 }
-/* .rightSidePanel div{
-    display: flex;
-    background-color: #1D1E22;
-    flex : 1;
-    margin-left: 16px;
-    margin-top: 1px;
-    border-top: 3.5px solid #2f2f2f;
-    position: relative;
-} */
-
 
 .box1{
     position: absolute;
@@ -58,7 +48,7 @@
 }
 .box2{
     position: absolute;
-    top: -3px;
+    top: 215px;
     right: 0;
     width: 322px; 
     height: 38px;
@@ -67,8 +57,8 @@
 }
 .box3{
     position: absolute;
-    top: -3px;
-    right: 0;
+    top: 429px;
+    right: -0;
     width: 333px; 
     height: 38px;
     background-color: black;
@@ -77,9 +67,9 @@
 .html .htmlText{
     position: absolute;
     top: 7px;
-    left: 0;
+    left: 33px;
     height: 38px;
-    width: 40px;
+    width: 61px;
     border-top: 0;
     font-size: 15px;
     font-weight: 400;
@@ -89,8 +79,8 @@
 
 .css .cssText{
     position: absolute;
-    top: 7px;
-    left: 0;
+    top: 224px;
+    left: 34px;
     height: 38px;
     width: 40px;
     border-top: 0;
@@ -102,8 +92,8 @@
 
 .js .jsText{
     position: absolute;
-    top: 7px;
-    left: 0;
+    top: 439px;
+    left: 29px;
     height: 38px;
     width: 40px;
     border-top: 0;
